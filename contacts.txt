@@ -2,6 +2,7 @@ Only names
 
 First change
 
+<<<<<<< HEAD
 Second Change
 
 Third change
@@ -11,3 +12,6 @@ Fourth change
 Fifth change
 
 i dont know what i am doing
+=======
+Second Change
+>>>>>>> parent of 5c88db8... make third change
